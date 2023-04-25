@@ -1,0 +1,26 @@
+*{
+    padding: 0 ;
+    margin: 0;
+}
+body{
+   background-color: rgb(224, 45, 45);
+   font-family: Arial, Helvetica, sans-serif;
+   background-image: url(homem-aranha-de-volta-ao-lar-wallpaper-283787126321.jpg);
+   background-size: cover;
+   height: 100vh;
+   background-repeat: no-repeat;
+}
+.header{
+    background-color: rgba(0, 0, 0, 0.534);
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    justify-content: space-between;
+}
+.links a{
+    color: antiquewhite;
+    margin:10px;
+    text-decoration: none;
+    font-size: 1.5em;
+
+}
